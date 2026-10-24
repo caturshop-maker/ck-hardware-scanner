@@ -1,0 +1,13 @@
+# User-generated reports and diagnostics
+reports/
+*.log
+*.tmp
+*.zip
+*.bak
+*.dmp
+
+# Local PowerShell/test artifacts
+*.out
+*.err
+
+# Keep runtimes/ tracked: bundled LHM dependencies are part of the distribution.

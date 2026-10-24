@@ -1,0 +1,11 @@
+{
+  "provider": "LibreHardwareMonitor",
+  "version": "0.9.6",
+  "release": "v0.9.6",
+  "commit": "3d331e3370efb858411f19511373eff65a218701",
+  "asset": "LibreHardwareMonitor.zip",
+  "assetSha256": "086d9f1b5a99e643edc2cfaaac16051685b551e4c5ac0b32a57c58c0e529c001",
+  "runtime": "Windows PowerShell 5.1 / .NET Framework",
+  "architecture": "windows-x64",
+  "source": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.6"
+}
